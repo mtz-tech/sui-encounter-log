@@ -1,0 +1,11 @@
+[package]
+name = "sui_encounter_log"
+version = "0.0.1"
+# published-at = "0x380c7e74f1b6e18ce0ddf317a28b4c2c42bef4776042c243d91d4b372364b4a7"
+
+[addresses]
+# Use this for local devnet testing
+sui_encounter_log = "0x0"
+
+# Keep your real address here, commented
+# sui_encounter_log = "0x380c7e74f1b6e18ce0ddf317a28b4c2c42bef4776042c243d91d4b372364b4a7"

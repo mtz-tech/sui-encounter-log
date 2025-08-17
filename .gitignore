@@ -1,0 +1,7 @@
+build/*
+.trace
+.coverage*
+build/
+Move.lock
+*.mvd
+*.json
