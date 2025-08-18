@@ -1,7 +1,6 @@
 [package]
 name = "sui_encounter_log"
-version = "0.0.1
+version = "0.0.1"
 
 [addresses]
 sui_encounter_log = "0x0"
-
