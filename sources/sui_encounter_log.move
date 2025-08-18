@@ -1,4 +1,3 @@
-//module 0x380c7e74f1b6e18ce0ddf317a28b4c2c42bef4776042c243d91d4b372364b4a7::encounter_log {
 module sui_encounter_log::encounter_log {
     use sui::object::{Self, UID};
     use sui::tx_context::{Self, TxContext};
